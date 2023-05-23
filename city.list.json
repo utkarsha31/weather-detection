@@ -1,0 +1,752 @@
+[
+  {
+        "id": 86049,
+        "name": "Gialo",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.549999,
+            "lat": 29.033331
+        }
+    },
+    {
+        "id": 87204,
+        "name": "Darnah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 22.533331,
+            "lat": 32.049999
+        }
+    },
+    {
+        "id": 87205,
+        "name": "Darnah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 22.63669,
+            "lat": 32.76704
+        }
+    },
+    {
+        "id": 88319,
+        "name": "Benghazi",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.066669,
+            "lat": 32.116669
+        }
+    },
+    {
+        "id": 88380,
+        "name": "Az Zuwaytīnah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.12022,
+            "lat": 30.9522
+        }
+    },
+    {
+        "id": 88533,
+        "name": "Awjilah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.28694,
+            "lat": 29.108061
+        }
+    },
+    {
+        "id": 88562,
+        "name": "At Tāj",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 23.2857,
+            "lat": 24.20487
+        }
+    },
+    {
+        "id": 88603,
+        "name": "Aş Şafşāf",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.94923,
+            "lat": 32.777458
+        }
+    },
+    {
+        "id": 88635,
+        "name": "Ash Shawāshinah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.29417,
+            "lat": 29.171671
+        }
+    },
+    {
+        "id": 88823,
+        "name": "Al ‘Urūbah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.066669,
+            "lat": 32.116669
+        }
+    },
+    {
+        "id": 88834,
+        "name": "Tūkrah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.579109,
+            "lat": 32.534142
+        }
+    },
+    {
+        "id": 88835,
+        "name": "Al Qubbah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 22.242371,
+            "lat": 32.76162
+        }
+    },
+    {
+        "id": 88903,
+        "name": "Al Marj",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.831739,
+            "lat": 32.48798
+        }
+    },
+    {
+        "id": 88904,
+        "name": "Al Marj",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.316669,
+            "lat": 31.933331
+        }
+    },
+    {
+        "id": 88930,
+        "name": "Al Kufrah",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 23.269621,
+            "lat": 24.16667
+        }
+    },
+    {
+        "id": 88962,
+        "name": "Al Jawf",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 23.29093,
+            "lat": 24.1989
+        }
+    },
+    {
+        "id": 88967,
+        "name": "Al Jaghbūb",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 24.51676,
+            "lat": 29.74262
+        }
+    },
+    {
+        "id": 89055,
+        "name": "Al Bayḑā’",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 21.75506,
+            "lat": 32.762718
+        }
+    },
+    {
+        "id": 89087,
+        "name": "Al Abyār",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.596531,
+            "lat": 32.189999
+        }
+    },
+    {
+        "id": 89113,
+        "name": "Ajdabiya",
+        "state": "",
+        "country": "LY",
+        "coord": {
+            "lon": 20.226259,
+            "lat": 30.755449
+        }
+    },
+    {
+        "id": 89341,
+        "name": "Muḩāfaz̧at al Başrah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 47.25,
+            "lat": 30.33333
+        }
+    },
+    {
+        "id": 89570,
+        "name": "Zaxo",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.700081,
+            "lat": 37.14817
+        }
+    },
+    {
+        "id": 89693,
+        "name": "Muhafazat Wasit",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.416672,
+            "lat": 32.75
+        }
+    },
+    {
+        "id": 89824,
+        "name": "Umm Qaşr",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 47.916771,
+            "lat": 30.040541
+        }
+    },
+    {
+        "id": 89977,
+        "name": "Ūlwur",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.749722,
+            "lat": 35.115002
+        }
+    },
+    {
+        "id": 90026,
+        "name": "Tozkhurmato",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.62994,
+            "lat": 34.890461
+        }
+    },
+    {
+        "id": 90150,
+        "name": "Tikrīt",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.678219,
+            "lat": 34.607121
+        }
+    },
+    {
+        "id": 90353,
+        "name": "Tallkayf",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.119171,
+            "lat": 36.489441
+        }
+    },
+    {
+        "id": 90552,
+        "name": "Sulaymānīyah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.381939,
+            "lat": 34.149719
+        }
+    },
+    {
+        "id": 90708,
+        "name": "Sīnah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.03886,
+            "lat": 36.809021
+        }
+    },
+    {
+        "id": 91597,
+        "name": "Sāmarrā’",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.875622,
+            "lat": 34.200958
+        }
+    },
+    {
+        "id": 91695,
+        "name": "Muhafazat Salah ad Din",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.650002,
+            "lat": 34.5
+        }
+    },
+    {
+        "id": 91812,
+        "name": "Nāḩīyat Saddat al Hindīyah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.280281,
+            "lat": 32.714722
+        }
+    },
+    {
+        "id": 91823,
+        "name": "Aḩmad Ţāhir",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.333328,
+            "lat": 34.316669
+        }
+    },
+    {
+        "id": 92002,
+        "name": "Ṟuwandiz",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.531109,
+            "lat": 36.61631
+        }
+    },
+    {
+        "id": 92004,
+        "name": "Rāwah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 41.909302,
+            "lat": 34.48164
+        }
+    },
+    {
+        "id": 92244,
+        "name": "Qāzaw al ‘Ulyā",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.692501,
+            "lat": 35.338333
+        }
+    },
+    {
+        "id": 92365,
+        "name": "Qaryat Bānī Mālik",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 47.700001,
+            "lat": 30.566669
+        }
+    },
+    {
+        "id": 92430,
+        "name": "Al-Hamdaniya",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.37373,
+            "lat": 36.271461
+        }
+    },
+    {
+        "id": 92628,
+        "name": "Qal‘at as Sādah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.157219,
+            "lat": 33.161388
+        }
+    },
+    {
+        "id": 92873,
+        "name": "Niskah Jaww",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.648056,
+            "lat": 35.353333
+        }
+    },
+    {
+        "id": 92877,
+        "name": "Muḩāfaz̧at Nīnawá",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.583328,
+            "lat": 36.166672
+        }
+    },
+    {
+        "id": 93396,
+        "name": "Mudarras",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 47.183331,
+            "lat": 31.85
+        }
+    },
+    {
+        "id": 93540,
+        "name": "Muḩāfaz̧at Maysān",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 47.0,
+            "lat": 32.0
+        }
+    },
+    {
+        "id": 93709,
+        "name": "Mandalī",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.5541,
+            "lat": 33.749859
+        }
+    },
+    {
+        "id": 94220,
+        "name": "Koysinceq",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.627781,
+            "lat": 36.082142
+        }
+    },
+    {
+        "id": 94298,
+        "name": "Kifrī",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.966099,
+            "lat": 34.695869
+        }
+    },
+    {
+        "id": 94589,
+        "name": "Raḩbah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.314999,
+            "lat": 31.73357
+        }
+    },
+    {
+        "id": 94787,
+        "name": "Kirkuk",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.39222,
+            "lat": 35.46806
+        }
+    },
+    {
+        "id": 94796,
+        "name": "Karīm Āwah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.733334,
+            "lat": 35.299999
+        }
+    },
+    {
+        "id": 94823,
+        "name": "Muḩāfaz̧at Karbalā’",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.833328,
+            "lat": 32.5
+        }
+    },
+    {
+        "id": 94824,
+        "name": "Karbala",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.024879,
+            "lat": 32.616032
+        }
+    },
+    {
+        "id": 94889,
+        "name": "Kānī Mīr",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.674999,
+            "lat": 35.310833
+        }
+    },
+    {
+        "id": 94930,
+        "name": "Kānī Khākī",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.202579,
+            "lat": 35.334702
+        }
+    },
+    {
+        "id": 94931,
+        "name": "Kānī Kawah al Qadīmah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.743889,
+            "lat": 35.302502
+        }
+    },
+    {
+        "id": 94932,
+        "name": "Kānī Kawah Jabūkh",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.726665,
+            "lat": 35.31028
+        }
+    },
+    {
+        "id": 94964,
+        "name": "Kānī Bardīnah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.808201,
+            "lat": 35.239498
+        }
+    },
+    {
+        "id": 95308,
+        "name": "Jalīb Shihāb",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 46.183331,
+            "lat": 30.41667
+        }
+    },
+    {
+        "id": 95445,
+        "name": "Muḩāfaz̧at Arbīl",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.0,
+            "lat": 36.166672
+        }
+    },
+    {
+        "id": 95446,
+        "name": "Erbil",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.01062,
+            "lat": 36.19257
+        }
+    },
+    {
+        "id": 95788,
+        "name": "Hīt",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.825089,
+            "lat": 33.64159
+        }
+    },
+    {
+        "id": 96165,
+        "name": "Hamādīyah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.21352,
+            "lat": 35.277569
+        }
+    },
+    {
+        "id": 96205,
+        "name": "Ḩalabjah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.986111,
+            "lat": 35.17778
+        }
+    },
+    {
+        "id": 96215,
+        "name": "Ḩājj Sallūm",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.349171,
+            "lat": 33.455349
+        }
+    },
+    {
+        "id": 96269,
+        "name": "‘Arab Ḩasan as Suhayl",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.15752,
+            "lat": 33.32304
+        }
+    },
+    {
+        "id": 96309,
+        "name": "Ḩadīthah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.378059,
+            "lat": 34.139721
+        }
+    },
+    {
+        "id": 96965,
+        "name": "Diyālá",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.0,
+            "lat": 34.0
+        }
+    },
+    {
+        "id": 96966,
+        "name": "Dīwānīyah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.582218,
+            "lat": 33.001389
+        }
+    },
+    {
+        "id": 96994,
+        "name": "Dihok",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 42.99398,
+            "lat": 36.869499
+        }
+    },
+    {
+        "id": 97019,
+        "name": "Muḩāfaz̧at Dhī Qār",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 46.0,
+            "lat": 31.0
+        }
+    },
+    {
+        "id": 97270,
+        "name": "Dihok",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.25,
+            "lat": 37.0
+        }
+    },
+    {
+        "id": 97417,
+        "name": "Jamjamāl",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.831669,
+            "lat": 35.53653
+        }
+    },
+    {
+        "id": 97572,
+        "name": "Buzan",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 45.966667,
+            "lat": 35.566666
+        }
+    },
+    {
+        "id": 97783,
+        "name": "Bayjī",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 43.487,
+            "lat": 34.931141
+        }
+    },
+    {
+        "id": 97990,
+        "name": "Baqubah",
+        "state": "",
+        "country": "IQ",
+        "coord": {
+            "lon": 44.655449,
+            "lat": 33.748459
+        }
+    }
+]
